@@ -1,0 +1,56 @@
+
+// A. Brute Force Way -  Time Complexity: O(N), Extra Space: O(N)
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string s = "Hi Hello World";
+  
+    //Initialize a Stack 
+    //push every word into stack(LIFO) 
+    //Initialize a new result String and pop the stack
+  
+  stack<string> st;
+    int currInd = 0;
+    for(int i = 0; i < s.size(); i++) {
+        if(s[i] == ' ') {
+            st.push(s.substr(currInd, i - currInd));
+            currInd = i + 1;
+        }
+    }
+    // Push last word
+    st.push(s.substr(currInd));
+    
+    string result = "";
+
+    while(!st.empty()) {
+        result += st.top();
+        st.pop();
+        if(!st.empty()) result += " ";
+    }
+    cout << result;
+
+    return 0;
+}
+
+//B. Optimal Way -  Time Complexity: O(N), Extra Space: O(1)
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    string s = "Hi Hello World";
+    reverse(s.begin(),s.end());
+
+    int currInd = 0;
+    for(int i=0;i<s.size();i++){
+        if(s[i]==' '){
+            reverse(s.begin()+currInd,s.begin()+i);
+            currInd = i+1;
+        }
+    }
+    reverse(s.begin()+currInd,s.end());        //last word has no gap so reversing it manually 
+    cout<<s;
+  
+    return 0;
+}
