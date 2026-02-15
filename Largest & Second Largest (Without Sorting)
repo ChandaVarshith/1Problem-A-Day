@@ -1,0 +1,97 @@
+//if n<1 no element present in the array
+//if n<2 arr[0] is the largest , second largest is not present
+//if n>1 largest will be surely present but, second largest (can or cannot be present) depends on the duplicates
+// Extra Constraints arr[] values can be till INT_MIN
+
+//A. Brute Force - O(2N) we are using 2 passes
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    vector<int> arr = {10, 5, 20};
+    int n = arr.size();
+
+    if(n < 1){ 
+        //empty array
+        return 0;
+    }
+    if(n < 2){
+        //Only 1 element present
+        cout<<"Largest: "<<arr[0]<<endl;
+        cout<<"Second Largest Not Found";
+        return 0;
+    }
+
+    int largest = arr[0];
+
+    // to find largest
+    for(int i = 0; i < n; i++){
+        if(arr[i] > largest){
+            largest = arr[i];
+        }
+    }
+
+    int secondLargest = INT_MIN;
+    bool check = false;
+
+    // to find second largest
+    for(int i = 0; i < n; i++){
+        if(arr[i] != largest && arr[i] > secondLargest){
+            secondLargest = arr[i];
+            check = true;
+        }
+    }
+
+    if(!check){
+        // If the values in the array are {20,20,20}
+        cout << "No Second Largest ";
+    } 
+    else {
+        cout << "Largest: " << largest << endl;
+        cout << "Second Largest: " << secondLargest;
+    }
+}
+
+//B. Optimal Way - O(N) only in 1 pass
+
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    vector<int> arr = {10, 5, 20, 5};
+    int n = arr.size();
+
+    if(n < 1){ 
+        return 0;
+    }
+    if(n < 2){ 
+        cout<<"Largest: "<<arr[0]<<endl;
+        cout<<"Second Largest Not Found";
+        return 0;
+    }
+
+
+    int largest = arr[0];
+    int secondLargest = INT_MIN;
+    int check = false;
+    for(int i = 0; i < n; i++){
+        if(arr[i] > largest){
+            secondLargest = largest;
+            largest = arr[i];
+            check = true;
+        }
+        else if(arr[i] < largest && arr[i] > secondLargest){
+            secondLargest = arr[i];
+            check = true;
+        }
+    }
+
+    if(!check){
+        cout << "No Second Largest";
+    }
+    else {
+        cout << "Largest: " << largest << endl;
+        cout << "Second Largest: " << secondLargest;
+    }
+}
