@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0835-image-overlap) |
+| [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3875-construct-uniform-parity-array-i) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
