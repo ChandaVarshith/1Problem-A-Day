@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3483-unique-3-digit-even-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -90,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
