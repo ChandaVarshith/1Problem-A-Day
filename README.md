@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting Sort
