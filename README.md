@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0860-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
