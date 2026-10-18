@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1401-circle-and-rectangle-overlapping) |
+| [2235-add-two-integers](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2235-add-two-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3870-count-commas-in-range) |
