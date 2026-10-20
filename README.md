@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0128-longest-consecutive-sequence) |
 | [0435-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0455-assign-cookies) |
 | [0835-image-overlap](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0835-image-overlap) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0128-longest-consecutive-sequence) |
 | [1096-brace-expansion-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0128-longest-consecutive-sequence) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
