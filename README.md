@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0007-reverse-integer) |
 | [0836-rectangle-overlap](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0836-rectangle-overlap) |
 | [1360-number-of-days-between-two-dates](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1401-circle-and-rectangle-overlapping) |
