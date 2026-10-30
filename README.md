@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -293,4 +294,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
