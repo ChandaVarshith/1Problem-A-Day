@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0860-lemonade-change) |
 | [1254-number-of-closed-islands](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1833-maximum-ice-cream-bars) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0836-rectangle-overlap) |
 | [1360-number-of-days-between-two-dates](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1360-number-of-days-between-two-dates) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2409-count-days-spent-together) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3903-smallest-stable-index-i](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3904-smallest-stable-index-ii) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
