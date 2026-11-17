@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0128-longest-consecutive-sequence) |
+| [0300-longest-increasing-subsequence](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0455-assign-cookies) |
 | [0835-image-overlap](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0835-image-overlap) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0055-jump-game) |
+| [0300-longest-increasing-subsequence](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0940-distinct-subsequences-ii) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
