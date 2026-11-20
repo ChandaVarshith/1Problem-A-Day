@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0144-binary-tree-preorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0144-binary-tree-preorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ChandaVarshith/1Problem-A-Day/tree/master/1096-brace-expansion-ii) |
